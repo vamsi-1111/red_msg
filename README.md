@@ -2,12 +2,6 @@
 
 Project scaffold for a Reddit control system with a FastAPI backend, job queue worker pattern, and a simple frontend shell.
 
-## Branching
-
-Work for this setup is on a feature branch, not `main`:
-
-- `feature/reddit-ui-job-queue`
-
 ## Target Structure
 
 ```text
