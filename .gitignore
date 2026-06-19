@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+
+reddit_ui/backend/.env
+reddit_ui/backend/app/.venv/
+reddit_ui/backend/app/logs.db
+
+reddit_ui/frontend/node_modules/
+reddit_ui/frontend/dist/
